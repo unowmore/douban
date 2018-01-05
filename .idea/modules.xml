@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/college/sunshine yellow/DouBanSpider-master/.idea/DouBanSpider-master.iml" filepath="D:/college/sunshine yellow/DouBanSpider-master/.idea/DouBanSpider-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/doubanbook-master.iml" filepath="$PROJECT_DIR$/.idea/doubanbook-master.iml" />
+      <module fileurl="file://D:/college/django/mysite/.idea/mysite.iml" filepath="D:/college/django/mysite/.idea/mysite.iml" />
+      <module fileurl="file://D:/college/django/zqxt_views/.idea/zqxt_views.iml" filepath="D:/college/django/zqxt_views/.idea/zqxt_views.iml" />
+    </modules>
+  </component>
+</project>
